@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on completing my software engineering course with General Assembly! 
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
-- 👯 I’m looking to collaborate on any projects that would be game-related, as my aim in the future is to get into game development.
-- 🤔 I’m looking for help with resources and recommendations for how to get started on the path to game development.
+- 👯 I'm super passionate about gaming and also excited to learn about all of the possibilities software development has to offer!
+- 🤔 I’m looking for help with resources and recommendations for anything coding related.
 - 💬 Ask me about my journey into the tech world and games I hope to be a part of creating!
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/alissonricardo888/).
 - 😄 Pronouns: **She/Her**
