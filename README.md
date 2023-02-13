@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on completing my software engineering course with General Assembly! 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 🔭 I recently completed my software engineering bootcamp with General Assembly! 
+- 🌱 Familiar with HTML, CSS, and JavaScript, Python. Diving into C#, C++, and React Native!
 - 👯 I'm super passionate about gaming and also excited to learn about all of the possibilities software development has to offer!
-- 🤔 I’m looking for help with resources and recommendations for anything coding related.
+- 🤔 I’m looking for help with resources and recommendations for ANYTHING coding-related.
 - 💬 Ask me about my journey into the tech world and games I hope to be a part of creating!
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/alisson-ricardo/).
 - 😄 Pronouns: **She/Her**
